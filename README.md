@@ -3,6 +3,7 @@
 <!-- 个人资料徽标 -->
 <div align="center">
   <a href="https://blog.csdn.net/hellmorning?spm=1010.2135.3001.5421"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
+  <a href="https://leetcode.cn/u/moondream2144/"><img src="https://img.shields.io/badge/LeetCode-个人力扣-8A2BE2"></a>&emsp;
 <!-- 访客数统计徽标 -->
   </div>
   <!-- 贪吃蛇代码贡献图 -->
