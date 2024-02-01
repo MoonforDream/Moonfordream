@@ -13,7 +13,6 @@
 # About Me!
 - 🌱 I’m currently know django and c++,I am currently studying in the field of C++game server development.
 - 🤔 I’m looking for help with csdn and github
-- 📫 How to reach me: 3052573970@qq.com
 -->I will learning and Reference with github at studying in college
 
 
