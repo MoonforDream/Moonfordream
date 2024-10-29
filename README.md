@@ -10,7 +10,7 @@
 <div align="center"><img src="https://github.com/MoonforDream/Moonfordream/blob/output/github-contribution-grid-snake.svg" /></div>
 
 # About Me!
-- 🌱 I’m currently know django and c++,I am currently studying in the field of C++game server development.
+- 🌱 I’m currently know django and c++,I am currently studying in the field of C++ server development.
 - 🤔 I’m looking for help with csdn and github
 -->I will learning and Reference with github at studying in college
 
