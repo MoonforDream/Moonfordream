@@ -7,8 +7,7 @@
 <!-- 访客数统计徽标 -->
   </div>
   <!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://github.com/MoonforDream/Moonfordream/blob/output/github-contribution-grid-snake.svg" /></div>
-
+<div align="center"><img src="https://raw.githubusercontent.com/MoonforDream/Moonfordream/refs/heads/output/github-contribution-grid-snake.svg" /></div>
 # About Me!
 - 🌱 I’m currently know django and c++,I am currently studying in the field of C++ server development.
 - 🤔 I’m looking for help with csdn and github
